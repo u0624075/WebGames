@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "chen",
+"productVersion": "0.1",
+"dataUrl": "cab7f2dd5a590c6befffff660777622a.unityweb",
+"wasmCodeUrl": "0f7c9c2f217198a65e62d2e19f684578.unityweb",
+"wasmFrameworkUrl": "ceab334c5e23138949d97072079eb450.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
